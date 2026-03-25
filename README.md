@@ -1,4 +1,4 @@
- ## Bem-vindo(a) ao perfil do Pedro Neto 😁
+ ## Bem-vindo(a) ao perfil do Pedro Neto
 
  <div>
    <a href="https://github.com/PedroNetoBarras">
